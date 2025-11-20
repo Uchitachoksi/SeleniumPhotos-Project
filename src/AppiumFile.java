@@ -5,6 +5,8 @@ public class AppiumFile {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Appium file 1");
+		System.out.println("Appium file 2");
+		System.out.println("Appium file 3");
 
 	}
 
